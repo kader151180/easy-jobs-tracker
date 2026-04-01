@@ -63,11 +63,28 @@ EasyJobsTrackerSetup.exe
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+
+<img width="1906" height="1004" alt="Home Page" src="https://github.com/user-attachments/assets/10ce237a-625f-4952-92cc-97c0b0019ebd" />
+
+
+
+<img width="1902" height="1012" alt="Search page" src="https://github.com/user-attachments/assets/e78cb25b-a828-487b-8ed9-8a8096ade20a" />
+
+<img width="1906" height="1017" alt="Login" src="https://github.com/user-attachments/assets/0df36a6d-f02f-4f05-a9fe-139e7e33bd32" />
+
+<img width="1879" height="1014" alt="click job" src="https://github.com/user-attachments/assets/6d967339-7f49-452b-aa1a-a2b2c95a34d7" />
+
+
+<img width="1873" height="1011" alt="attached to form" src="https://github.com/user-attachments/assets/d4533f0b-3605-4137-b3b3-826edcdc8f6f" />
+
+
+<img width="1896" height="1012" alt="save Jobs" src="https://github.com/user-attachments/assets/f07b6c66-8371-41c9-941b-1b9af4bb3209" />
+
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/ebb0ea0e-7aa8-4a77-a54e-abc6e4a16398" />
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack!
 
 * Python
 * PySide6 (Qt)

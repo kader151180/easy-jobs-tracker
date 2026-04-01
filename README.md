@@ -80,7 +80,7 @@ EasyJobsTrackerSetup.exe
 
 <img width="1896" height="1012" alt="save Jobs" src="https://github.com/user-attachments/assets/f07b6c66-8371-41c9-941b-1b9af4bb3209" />
 
-<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/ebb0ea0e-7aa8-4a77-a54e-abc6e4a16398" />
+
 
 ---
 
